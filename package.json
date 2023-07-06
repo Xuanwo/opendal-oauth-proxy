@@ -1,0 +1,22 @@
+{
+  "name": "opendal-oauth-proxy",
+  "version": "1.0.0",
+  "description": "OpenDAL OAuth Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev --token TOKEN"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuanwo/opendal-oauth-proxy.git"
+  },
+  "author": "Xuanwo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Xuanwo/opendal-oauth-proxy/issues"
+  },
+  "homepage": "https://github.com/Xuanwo/opendal-oauth-proxy#readme",
+  "dependencies": {
+    "grant": "^5.4.21"
+  }
+}
